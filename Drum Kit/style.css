@@ -1,14 +1,6 @@
-/* * {
-  margin: 0;
-  padding: 0;
-}
-
-html{
-    background-image: url('./Images/image-1.jpg');
-} */
 html {
   font-size: 10px;
-  background: url("./Images/image-1.jpg") bottom center;
+  /* background: url("./Images/image-1.jpg") bottom center; */
   background-size: cover;
 }
 
@@ -59,3 +51,4 @@ kbd {
   letter-spacing: 0.1rem;
   color: #ffc600;
 }
+
