@@ -214,3 +214,12 @@ body {
   cursor: pointer;
   transition: all 0.3s ease;
 }
+
+.head{
+  text-align: center;
+  margin-top: 2em;
+  font-size: 3rem;
+  color: #f6e7d8;
+  font-weight: bolder;
+  text-decoration: underline;
+}
