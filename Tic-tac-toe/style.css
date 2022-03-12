@@ -10,7 +10,7 @@
   background: #874356;
 }
 body {
-  background: #874356;
+  background: #c65d7b;
 }
 .select-box,
 .play-board,
@@ -221,5 +221,9 @@ body {
   font-size: 3rem;
   color: #f6e7d8;
   font-weight: bolder;
+  text-decoration: underline;
+}
+
+.name{
   text-decoration: underline;
 }
